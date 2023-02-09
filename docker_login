@@ -1,0 +1,2 @@
+docker login -u dana -p p@s$word
+docker login --user{user} --password{password}
