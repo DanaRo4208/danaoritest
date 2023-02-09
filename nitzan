@@ -1,0 +1,1 @@
+docker login --user{user} --password{password}
